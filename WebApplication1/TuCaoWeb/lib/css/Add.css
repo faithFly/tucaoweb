@@ -1,0 +1,31 @@
+﻿  #TextArea1 {
+            height: 88.5%;
+            width: 100%;
+           
+        }
+                #imgfile {
+            height: 15%;
+            width: 90%;
+            margin-left:20px;
+            background-color:#d7d3d3;
+        }
+#login_btn {position:absolute;right:17.5%;
+}
+#helloId {position:absolute;right:17.5%;font-family:微软雅黑;color:white;top:5px;display:none;
+}
+#bg {background-color:#e9e3d5;
+}
+#con {width:60%;height:600px;margin:0 auto;background-color:white;
+}
+#con_all {margin:0 auto;width:90%;height:450px;position:relative;top:20px;
+}
+#con_left {width:65%;height:450px;float:left;
+}
+#con_left_top {width:100%;height:350px;background-color:#eae7e7;
+}
+#con_foot_btn {width:100px;height:45px;margin-top:15px;background-color:#81b949;
+}
+#con_foot_btnword {color:white;font-size:15px;
+}
+#con_right {width:25%;height:450px;float:left;margin-left:5px;
+}

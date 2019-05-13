@@ -1,0 +1,54 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="TuCaoSite.master.cs" Inherits="TuCaoWeb.TuCaoSite" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title>吐槽网</title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <link href="lib/css/top.css" rel="stylesheet" />
+</head>
+<body>
+        
+        <div id="top">
+        <div id="login">
+            <div id="login_btn"style="position:absolute;right:18%;">
+                <a href="Login.aspx">登录</a>
+            <span>|</span>
+            <a href="Regist.aspx">注册</a>
+           </div>
+            <div id="helloId"style="position:absolute;right:17.3%;font-family:微软雅黑;color:white;top:5px;display:none;">
+                欢迎你管理员
+            </div>
+            </div>
+            
+   </div>
+    <div id="list">
+        <ul>
+            <li><a href="#">热门</a></li>
+            <li><a href="#">精华</a></li>
+            <li><a href="#">最新</a></li>
+            <li><a href="#">投稿</a></li>
+            <li><a href="#">手机版</a></li>
+        </ul>
+    </div>
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+    <div id="foot">
+         <div id="list1">
+        
+        <ul>
+            <li><a>招聘岗位</a></li>
+            <li><a>意见反馈</a></li>
+            <li><a>客户端</a></li>
+            <li><a>官方QQ群</a></li>
+            <li><a>糗西游</a></li>
+        </ul>
+    </div>
+    </div>
+ 
+</body>
+</html>

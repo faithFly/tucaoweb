@@ -1,0 +1,19 @@
+C:\Users\faith\Desktop\TuCaoWeb\WebApplication1\TuCaoModel\bin\Debug\TuCaoModel.dll
+C:\Users\faith\Desktop\TuCaoWeb\WebApplication1\TuCaoModel\bin\Debug\TuCaoModel.pdb
+C:\Users\faith\Desktop\TuCaoWeb\WebApplication1\TuCaoModel\obj\Debug\TuCaoModel.csprojResolveAssemblyReference.cache
+C:\Users\faith\Desktop\TuCaoWeb\WebApplication1\TuCaoModel\obj\Debug\TuCaoModel.dll
+C:\Users\faith\Desktop\TuCaoWeb\WebApplication1\TuCaoModel\obj\Debug\TuCaoModel.pdb
+C:\Users\faith\Desktop\TuCaoWeb - 副本\WebApplication1\TuCaoModel\bin\Debug\TuCaoModel.dll
+C:\Users\faith\Desktop\TuCaoWeb - 副本\WebApplication1\TuCaoModel\bin\Debug\TuCaoModel.pdb
+C:\Users\faith\Desktop\TuCaoWeb - 副本\WebApplication1\TuCaoModel\obj\Debug\TuCaoModel.dll
+C:\Users\faith\Desktop\TuCaoWeb - 副本\WebApplication1\TuCaoModel\obj\Debug\TuCaoModel.pdb
+C:\Users\faith\Desktop\TuCaoWeb - 副本\WebApplication1\TuCaoModel\obj\Debug\TuCaoModel.csprojResolveAssemblyReference.cache
+C:\Users\faith\Desktop\TuCaoWeb - 副本 - 副本\WebApplication1\TuCaoModel\bin\Debug\TuCaoModel.dll
+C:\Users\faith\Desktop\TuCaoWeb - 副本 - 副本\WebApplication1\TuCaoModel\bin\Debug\TuCaoModel.pdb
+C:\Users\faith\Desktop\TuCaoWeb - 副本 - 副本\WebApplication1\TuCaoModel\obj\Debug\TuCaoModel.dll
+C:\Users\faith\Desktop\TuCaoWeb - 副本 - 副本\WebApplication1\TuCaoModel\obj\Debug\TuCaoModel.pdb
+C:\Users\faith\Desktop\TuCaoWeb - 副本 - 副本\WebApplication1\TuCaoModel\obj\Debug\TuCaoModel.csprojResolveAssemblyReference.cache
+C:\Users\faith\Desktop\TuCaoWeb - 副本 (3)\WebApplication1\TuCaoModel\bin\Debug\TuCaoModel.dll
+C:\Users\faith\Desktop\TuCaoWeb - 副本 (3)\WebApplication1\TuCaoModel\bin\Debug\TuCaoModel.pdb
+C:\Users\faith\Desktop\TuCaoWeb - 副本 (3)\WebApplication1\TuCaoModel\obj\Debug\TuCaoModel.dll
+C:\Users\faith\Desktop\TuCaoWeb - 副本 (3)\WebApplication1\TuCaoModel\obj\Debug\TuCaoModel.pdb

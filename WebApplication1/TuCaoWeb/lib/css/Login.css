@@ -1,0 +1,85 @@
+﻿* {
+        margin:0;
+        padding:0;
+        text-decoration:none;
+        }
+        #head {
+        background-color:#2B303B;
+        height:60px;
+        width:100%;
+        }
+        #logo {
+        height:60px;
+        width:400px;
+        margin-left:50px;
+        }
+            #logo a {
+            color:white;
+            font-size:40px;
+            font-family:微软雅黑;
+            }
+        #wrap {
+        width:100%;
+        height:640px;
+        background-color:#d8d9d9;
+     
+        }
+        #wrap_bg {
+        height:450px;
+        width:40%;
+        background-image:url(/lib/src/bg.png);
+        background-repeat:no-repeat;
+        margin-left:200px;
+        position:relative;
+        top:40px;
+        float:left;
+        }
+        #login {
+         height:450px;
+        width:40%;
+         float:left;
+         position:relative;
+        top:40px;
+        margin-left:20px;
+            left: 0px;
+            border-left:2px #a09e9e solid;
+        }
+        #logform {
+        margin-left:200px;
+        margin-top:80px;
+        }
+        #otherlogin {
+        height:223px;
+        width:380px;
+        }
+            #otherlogin p {
+            color:#a09e9e;
+            
+            }
+        #other-con {
+        height:20px;
+        width:100%;
+        margin-top:20px;
+        }
+        .other-link {
+        float:left;
+        margin-left:20px;
+        }
+        #logtoreg {
+            width:215px;
+            height:25px;
+       position:relative;
+       left:10px;
+       top:10px;
+        }
+        #foot {
+        width:100%;
+        height:50px;
+        background-color:#F7F8FA;
+        text-align:center;
+        }
+            #foot p {
+            color:#c3c3c3;
+          position:relative;
+          top:5px;
+            }

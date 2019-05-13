@@ -1,0 +1,28 @@
+C:\Users\faith\Desktop\TuCaoWeb\WebApplication1\TuCaoDAL\bin\Debug\TuCaoDAL.dll
+C:\Users\faith\Desktop\TuCaoWeb\WebApplication1\TuCaoDAL\bin\Debug\TuCaoDAL.pdb
+C:\Users\faith\Desktop\TuCaoWeb\WebApplication1\TuCaoDAL\bin\Debug\TuCaoModel.dll
+C:\Users\faith\Desktop\TuCaoWeb\WebApplication1\TuCaoDAL\bin\Debug\TuCaoModel.pdb
+C:\Users\faith\Desktop\TuCaoWeb\WebApplication1\TuCaoDAL\obj\Debug\TuCaoDAL.csprojResolveAssemblyReference.cache
+C:\Users\faith\Desktop\TuCaoWeb\WebApplication1\TuCaoDAL\obj\Debug\TuCaoDAL.dll
+C:\Users\faith\Desktop\TuCaoWeb\WebApplication1\TuCaoDAL\obj\Debug\TuCaoDAL.pdb
+C:\Users\faith\Desktop\TuCaoWeb - 副本\WebApplication1\TuCaoDAL\bin\Debug\TuCaoDAL.dll
+C:\Users\faith\Desktop\TuCaoWeb - 副本\WebApplication1\TuCaoDAL\bin\Debug\TuCaoDAL.pdb
+C:\Users\faith\Desktop\TuCaoWeb - 副本\WebApplication1\TuCaoDAL\bin\Debug\TuCaoModel.dll
+C:\Users\faith\Desktop\TuCaoWeb - 副本\WebApplication1\TuCaoDAL\bin\Debug\TuCaoModel.pdb
+C:\Users\faith\Desktop\TuCaoWeb - 副本\WebApplication1\TuCaoDAL\obj\Debug\TuCaoDAL.csprojResolveAssemblyReference.cache
+C:\Users\faith\Desktop\TuCaoWeb - 副本\WebApplication1\TuCaoDAL\obj\Debug\TuCaoDAL.dll
+C:\Users\faith\Desktop\TuCaoWeb - 副本\WebApplication1\TuCaoDAL\obj\Debug\TuCaoDAL.pdb
+C:\Users\faith\Desktop\TuCaoWeb - 副本 - 副本\WebApplication1\TuCaoDAL\obj\Debug\TuCaoDAL.csprojResolveAssemblyReference.cache
+C:\Users\faith\Desktop\TuCaoWeb - 副本 - 副本\WebApplication1\TuCaoDAL\bin\Debug\TuCaoDAL.dll
+C:\Users\faith\Desktop\TuCaoWeb - 副本 - 副本\WebApplication1\TuCaoDAL\bin\Debug\TuCaoDAL.pdb
+C:\Users\faith\Desktop\TuCaoWeb - 副本 - 副本\WebApplication1\TuCaoDAL\bin\Debug\TuCaoModel.dll
+C:\Users\faith\Desktop\TuCaoWeb - 副本 - 副本\WebApplication1\TuCaoDAL\bin\Debug\TuCaoModel.pdb
+C:\Users\faith\Desktop\TuCaoWeb - 副本 - 副本\WebApplication1\TuCaoDAL\obj\Debug\TuCaoDAL.dll
+C:\Users\faith\Desktop\TuCaoWeb - 副本 - 副本\WebApplication1\TuCaoDAL\obj\Debug\TuCaoDAL.pdb
+C:\Users\faith\Desktop\TuCaoWeb - 副本 (3)\WebApplication1\TuCaoDAL\bin\Debug\TuCaoDAL.dll
+C:\Users\faith\Desktop\TuCaoWeb - 副本 (3)\WebApplication1\TuCaoDAL\bin\Debug\TuCaoDAL.pdb
+C:\Users\faith\Desktop\TuCaoWeb - 副本 (3)\WebApplication1\TuCaoDAL\bin\Debug\TuCaoModel.dll
+C:\Users\faith\Desktop\TuCaoWeb - 副本 (3)\WebApplication1\TuCaoDAL\bin\Debug\TuCaoModel.pdb
+C:\Users\faith\Desktop\TuCaoWeb - 副本 (3)\WebApplication1\TuCaoDAL\obj\Debug\TuCaoDAL.csprojResolveAssemblyReference.cache
+C:\Users\faith\Desktop\TuCaoWeb - 副本 (3)\WebApplication1\TuCaoDAL\obj\Debug\TuCaoDAL.dll
+C:\Users\faith\Desktop\TuCaoWeb - 副本 (3)\WebApplication1\TuCaoDAL\obj\Debug\TuCaoDAL.pdb

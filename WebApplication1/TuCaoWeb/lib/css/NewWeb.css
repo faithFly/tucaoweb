@@ -1,0 +1,25 @@
+﻿ #login_btn{position:absolute;right:17.5%;}
+        #helloId {position:absolute;right:17.5%;font-family:微软雅黑;color:white;top:5px;display:none;
+        }
+        #form1 {background-color:#e9e3d5;
+        }
+        #con {width:70%;height:380px;background-color:white;margin:0 auto;position:relative;top:10px;
+        }
+        #con_top {width:90%;height:60px;margin:0 auto;
+        }
+        #userName {display:block;float:left;line-height:60px;color:#d36e6e;
+        }
+        #con_on {width:90%;height:150px;margin:0 auto;
+        }
+        #con_smile {width:90%;height:30px;margin:0 auto;
+        }
+        #UserImg {
+    float: left;
+    border-radius: 100%;
+    overflow: hidden;
+}
+#smile {
+color:#808080;
+font-size:15px;
+}
+        

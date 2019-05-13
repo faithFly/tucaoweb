@@ -1,0 +1,30 @@
+﻿* {margin:0px;padding:0px;}
+#top {width:100%;height:182px;background-image:url(/lib/src/2.jpg);
+background-repeat:no-repeat;background-size:100% 100%;
+}
+    #login {width:121px;height:35px;background-image:url(/lib/src/1.jpg);
+float:right;margin-right:16%;display:block;text-align:center;
+}
+        #login a {text-decoration:none;color:white;line-height:35px;}
+#list {width:100%;height:40px;background-image:url(/lib/src/3.png);
+}
+
+    #list ul {display:block;width:840px;height:40px;margin:0 auto;}
+    #list ul li {float:left;list-style-type:none;width:90px;height:40px;text-align:center;}
+        #list ul li:hover {background-color:#844C26;}
+        #list ul li a {text-decoration:none;color:white;font-family:微软雅黑;font-size:25px;line-height:40px;text-align:center;}
+#foot {width:100%;height:130px;background-color:#393124;}
+    #list1 ul {display:block;width:840px;height:40px;margin:0 auto;}
+    #list1 ul li {float:left;list-style-type:none;width:90px;height:40px;text-align:center;}
+        #list1 ul li a {text-decoration:none;color:white;font-family:微软雅黑;line-height:40px;text-align:center; }
+#sina-btn-one {width: 250px; height: 40px;background-color:#EE5C43;border:none;border-radius:3px 3px 3px 3px;}
+#QQ-btn-one {width: 250px; height: 40px;background-color:#2499D8;border:none;border-radius:3px 3px 3px 3px;}
+#UserName1 {width: 250px; height: 40px;border-radius:5px 5px 0 0;border:1px solid #CACAC9;color:#C6C6C6;}
+#PassWord1 {width: 250px; height: 40px;border-radius:0 0 5px 5px;border:1px solid #CACAC9;color:#C6C6C6;}
+#logbtn {width: 250px; height: 40px;background-color:white;border:1px solid #FCF2A8;color:#f59940;}
+#sina-btn-two {width: 250px; height: 40px;background-color:#EE5C43;border:none;border-radius:3px 3px 3px 3px;}
+#QQ-btn-two {width: 250px; height: 40px;background-color:#2499D8;border:none;border-radius:3px 3px 3px 3px;}
+#PassWord2 {width: 250px; height: 40px;border-radius:0px 0px 5px 5px;border:1px solid #CACAC9;color:#C6C6C6;}
+#UserName2 {width: 250px; height: 40px;border-radius:5px 5px 0 0;border:1px solid #CACAC9;color:#C6C6C6;}
+#v-code {width: 120px; height: 40px;}
+#resbtn {width: 250px; height: 40px;background-color:white;border:1px solid #FCF2A8;color:#f59940; }
